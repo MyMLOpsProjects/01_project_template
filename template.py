@@ -10,7 +10,7 @@ list_of_dir_and_files = [
     f"{project_name}_project/{project_name}_model/config.yml",
     f"{project_name}_project/{project_name}_model/pipeline.py",
     f"{project_name}_project/{project_name}_model/predict_pipeline.py",
-    f"{project_name}_project/{project_name}_model/train_pipline.py",
+    f"{project_name}_project/{project_name}_model/train_pipeline.py",
     f"{project_name}_project/{project_name}_model/config/core.py",
     f"{project_name}_project/{project_name}_model/config/__init__.py",
     f"{project_name}_project/{project_name}_model/datasets/__init__.py",
